@@ -7,7 +7,7 @@
 * I used boxplot for the descriptive statistical analysis 
 
 ## RScript2: Logistic Regression
-* The script contains codes I used to evaluate Food Insecurity [survey data](https://docs.google.com/forms/d/e/1FAIpQLSfnENEsf881JKhhjzWn0hcUC3KQo8snrPBI6qSfSVPEq6Nklw/viewform?usp=sf_link) collected by me. 
+* The script contains codes I used to evaluate Food Insecurity [survey data](https://docs.google.com/forms/d/e/1FAIpQLSefeIBR3aTLKzJehNwFHEeouKqlQP2UZGgSANmQf7pMMJ6-iw/viewform?usp=sf_link) collected by me. 
 * I coded the data as binary outcomes ( food secure and food insecure) using the criteria set by the USDA
 * I split the dataset into train and test (70:30) and then used the trained dataset to predict the outcome of the  model test
 * I evaluated the fitness of the data using the Likelihood test, Wald test, and the Goodness of fit test. The model I built fits the data well.
