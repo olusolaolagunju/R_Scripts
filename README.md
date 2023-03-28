@@ -1,4 +1,4 @@
-# Graduate_School_R_Scripts
+# Machine learning and Regression models
 
 ## RScript1: Linear Regression
 * The script contains codes I used to evaluate the Covid-19 dataset. 
